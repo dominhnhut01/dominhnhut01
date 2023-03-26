@@ -76,7 +76,7 @@
 </p>
 <img src="https://i.imgur.com/a50ZTyX.png" width="50%" height="300px"/>
 
-## ✨Leetcode Stats  : 
+## ✨Stats  : 
 <div align="center">
   <img width="48%" src="https://leetcode.card.workers.dev/dominhnhut01?theme=nord&font=baloo&border=0&radius=50" />
   <img width="48%" height="173px" src="https://github-readme-stats.vercel.app/api?username=dominhnhut01&show_icons=true&theme=tokyonight" />
