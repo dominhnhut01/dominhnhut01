@@ -79,7 +79,7 @@
 ## ✨Stats  : 
 <div align="center">
   <img width="48%" src="https://leetcode.card.workers.dev/dominhnhut01?theme=nord&font=baloo&border=0&radius=50" />
-  <img width="48%" height="173px" src="https://github-readme-streak-stats.herokuapp.com/?user=dominhnhut01&theme=nord" />
+  <img width="48%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dominhnhut01&theme=nord" />
 </div>
 
 <br/>   
