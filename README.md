@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hello, I'm Steve Do <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner3.gif" width="100%" height="300px"/>
 
 
 ## 💡 Connect with me :
@@ -13,9 +13,9 @@
   </a>
 </p>
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<h3> 💻 I'm a CS Student at Miami University</h3>
 
-<h3> 🧑 I'm a CS Student at Miami University!!</h3>
+- ✌ I love building AI web/mobile application
 
 - 🔭 My most current project is [MyKalory](https://github.com/dominhnhut01/revolutionuc2023)
 
@@ -59,6 +59,9 @@
     <a href="https://pytorch.org/" target="_blank"> 
         <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch" width="50" height="50"/></code> 
     </a> 
+    <a href="https://opencv.org/" target="_blank"> 
+        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="50" height="50"/></code> 
+    </a>
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="git" width="50" height="50"/></code> 
     </a> 
@@ -68,29 +71,15 @@
     <a href="https://www.postgresql.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></code> 
     </a> 
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://postman.com" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"" alt="postman" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://docker.com" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></code> 
-    </a> 
     <a href="https://www.linux.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></code> 
-    </a>
-    <a href="https://www.android.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/android/android-original.svg" alt="android" width="50" height="50"/></code> 
-    </a>
-    <a href="https://ubuntu.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/></code> 
-    </a>
 </p>
+<img src="https://i.imgur.com/a50ZTyX.png" width="50%" height="300px"/>
 
 ## ✨Leetcode Stats  : 
 <div align="center">
-  <img width="48%" src="https://leetcode.card.workers.dev/dominhnhut01?theme=nord&font=baloo&extension=activity&border=0&radius=50" />
+  <img width="48%" src="https://leetcode.card.workers.dev/dominhnhut01?theme=nord&font=baloo&border=0&radius=50" />
+  <img width="48%" height="173px" src="https://github-readme-stats.vercel.app/api?username=dominhnhut01&show_icons=true&theme=tokyonight" />
 </div>
 
 <br/>   
