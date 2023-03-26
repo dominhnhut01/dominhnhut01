@@ -1,6 +1,6 @@
 
+
 <h1 align="center"> Hello, I'm Steve Do <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner3.gif" width="100%" height="300px"/>
 
 
@@ -78,7 +78,7 @@
 
 ## ✨Stats  : 
 <div align="center">
-  <img width="48%" src="https://leetcode.card.workers.dev/dominhnhut01?theme=nord&font=baloo&border=0&radius=50" />
+  <img width="48%" src="https://leetcard.jacoblin.cool/dominhnhut01?theme=nord&font=Baloo%202&border=5&radius=10" />
   <img width="48%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dominhnhut01&theme=nord" />
 </div>
 
