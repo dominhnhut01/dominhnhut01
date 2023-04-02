@@ -1,5 +1,6 @@
 
 
+
 <h1 align="center"> Hello, I'm Steve Do <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner3.gif" width="100%" height="300px"/>
 
@@ -17,7 +18,8 @@
 
 - ✌ I love building AI web/mobile application
 
-- 🔭 My most current project is [MyKalory](https://github.com/dominhnhut01/revolutionuc2023)
+- 🔭 My most current project is [MyKalory](https://github.com/dominhnhut01/revolutionuc2023). Click on this GIF to try the live demo now!
+<a href="https://my-kalory.netlify.app/"><img src="https://imgur.com/lxmfLML.gif" width="70%" height="350px"/></a>
 
 - 🌱 I’m currently learning DJango and React.js with TypeScript for full-stack web development
 
