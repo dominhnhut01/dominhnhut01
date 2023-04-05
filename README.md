@@ -80,8 +80,10 @@
 
 ## ✨Stats  : 
 <div align="center">
-  <img width="48%" src="https://leetcard.jacoblin.cool/dominhnhut01?theme=nord&font=Baloo%202&border=5&radius=10" />
-  <img width="48%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dominhnhut01&theme=nord" />
+   <a href="https://leetcode.com/dominhnhut01/">
+      <img width="48%" src="https://leetcard.jacoblin.cool/dominhnhut01?theme=nord&font=Baloo%202&border=5&radius=10" />
+   </a>
+   <img width="48%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dominhnhut01&theme=nord" />
 </div>
 
 <br/>   
