@@ -18,8 +18,8 @@
 
 - ✌ I love building AI web/mobile application
 
-- 🔭 My most current project is [MyKalory](https://github.com/dominhnhut01/revolutionuc2023). Click on this GIF to try the live demo now!
-<a href="https://my-kalory.netlify.app/"><img src="https://imgur.com/lxmfLML.gif" width="70%" height="350px"/></a>
+- 🔭 My most current project is [ChessLand](https://github.com/dominhnhut01/chessgame_webapp). Click on this GIF to try the live demo now!
+<a href="https://chessland.netlify.app/"><img src="https://github.com/dominhnhut01/chessgame_webapp/blob/main/singleplayer_demo.gif?raw=true" width="70%" height="350px"/></a>
 
 - 🌱 I’m currently learning DJango and React.js with TypeScript for full-stack web development
 
