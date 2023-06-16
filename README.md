@@ -19,7 +19,7 @@
 - ✌ I love building AI web/mobile application
 
 - 🔭 My most current project is [ChessLand](https://github.com/dominhnhut01/chessgame_webapp). Click on this GIF to try the live demo now!
-<a href="https://chessland.netlify.app/"><img src="https://github.com/dominhnhut01/chessgame_webapp/blob/main/singleplayer_demo.gif?raw=true" width="70%" height="350px"/></a>
+<a href="https://chess-land.netlify.app/"><img src="https://github.com/dominhnhut01/chessgame_webapp/blob/main/singleplayer_demo.gif?raw=true" width="70%" height="350px"/></a>
 
 - 🌱 My main expertise is Node.js (TypeScript), Django, and React.js for full-stack web development
 
