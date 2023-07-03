@@ -23,7 +23,7 @@
 
 - 🌱 My main expertise is Node.js (TypeScript), Django, and React.js for full-stack web development
 
-- 👨‍💻 All of my projects are available at [https://dominhnhut01.wixsite.com/nhutdo](https://dominhnhut01.wixsite.com/nhutdo)
+- 👨‍💻 All of my projects are available at [https://stevedo.netlify.app/](https://stevedo.netlify.app/)
 
 - 📫 How to reach me **dominhnhut01@gmail.com**
 
