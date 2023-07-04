@@ -76,7 +76,6 @@
     <a href="https://www.linux.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></code> 
 </p>
-<img src="https://i.imgur.com/a50ZTyX.png" width="40%" height="200px"/>
 
 ## ✨Stats  : 
 <div align="center">
