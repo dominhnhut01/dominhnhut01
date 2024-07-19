@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominhnhut01&hide=jupyter%20notebook,css,scss,html&exclude_repo=veni_vici,revolutionuc2023,recipe_dashboard,portfolio,autodrive_code,render_engine_3D,deeplearning.ai&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominhnhut01&hide=jupyter%20notebook,css,scss,html&exclude_repo=veni_vici,revolutionuc2023,web102_prework,recipe_dashboard,portfolio,autodrive_code,render_engine_3D,deeplearning.ai&theme=tokyonight)
